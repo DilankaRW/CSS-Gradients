@@ -1,0 +1,21 @@
+#div1{
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to right, red, purple);
+}
+
+#div2{
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(180deg, green, yellow);
+}
+
+#div3{
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+    background: radial-gradient( circle ,orange, black);
+    /* background: radial-gradient(orange, black); */
+}
